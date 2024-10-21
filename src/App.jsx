@@ -1,4 +1,4 @@
-import Aside from "./components/ASide"
+import Aside from "./components/Aside"
 import ModalPokemon from "./components/ModalPokemon"
 import Pokemons from "./components/Pokemons"
 import usePokemonContext from "./hooks/usePokemonContext"
